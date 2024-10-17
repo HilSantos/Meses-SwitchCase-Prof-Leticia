@@ -1,6 +1,7 @@
 # Meses-SwitchCase-Prof-Leticia
+Escreva um programa que solicite um numero de 1 a 12 do usuario e exiba o nome do dia do mês correspondente (1=Janeiro, 2=Fevereiro,...12=Dezembro), usando o comando switch case.
 Entregar até 18/10/24
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 using System;
 using System.Collections.Generic;
 using System.Linq;
